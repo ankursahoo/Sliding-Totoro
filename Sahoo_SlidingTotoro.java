@@ -215,13 +215,11 @@ public class Sahoo_SlidingTotoro extends JFrame implements KeyListener{
 		return true;
 	}
 
-	//leave this empty
 	public void keyReleased(KeyEvent arg0) {
 
 
 	}
-
-	//leave this empty	
+	
 	public void keyTyped(KeyEvent arg0) {
 
 	}

@@ -1,5 +1,4 @@
 /*Ankur Sahoo
- * Period 4
  * Sliding Totoro: This program is a sliding puzzle that lets the user
  * move around "totoro" to have the matrix in numerical order*/
 
